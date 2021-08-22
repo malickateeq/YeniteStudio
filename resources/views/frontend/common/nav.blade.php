@@ -44,7 +44,7 @@
         <!--end nav-btn-->
         <div class="brand">
             <a href="index.html">
-                <img src="frontend/assets/img/logo.png" alt="">
+                <img src="frontend/assets/img/logo.png" width="200" height="" alt="">
             </a>
         </div>
         <!--end brand-->
