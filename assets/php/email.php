@@ -2,7 +2,7 @@
 mb_internal_encoding("UTF-8");
 
 $to = 'hello@example.com';
-$subject = 'Message from Photollax Template';
+$subject = 'Message from YeniteStudio Template';
 
 $name = "";
 $email = "";
