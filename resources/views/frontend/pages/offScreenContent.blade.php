@@ -143,7 +143,13 @@
             <!--end #pricing-->
 
             <section id="contact">
-                <div id="map"></div>
+
+                <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3320.5702449640994!2d73.07261581516107!3d33.66829568071219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38df955ae715fa71%3A0x8b928f25e6319f39!2sYenite!5e0!3m2!1sen!2s!4v1629621614437!5m2!1sen!2s" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+                </div>
+
                 <div class="section-wrapper">
                     <h2>Contact</h2>
 
@@ -151,11 +157,15 @@
                         <div class="col-md-6 col-sm-6">
                             <h3>Address</h3>
                             <address>
-                                4758 Nancy Street
+                                Office#5, 3rd Floor,
                                 <br>
-                                +1 919-571-2528
+                                Pakland Citycenter,
                                 <br>
-                                <a href="#">hello@example.com</a>
+                                I-8 Markaz, Islamabad, PK
+                                <br><br>
+                                +92 330 5959991
+                                <br>
+                                <a href="mailto:yenitestudio@gmail.com">yenitestudio@gmail.com</a>
                             </address>
                         </div>
                         <!--end col-sm-6-->
@@ -163,10 +173,48 @@
                             <h3>Social</h3>
 
                             <div class="social">
-                                <figure><a href="" class="icon"><i class="fa fa-facebook"></i>Facebook</a></figure>
-                                <figure><a href="" class="icon"><i class="fa fa-twitter"></i>Twitter</a></figure>
-                                <figure><a href="" class="icon"><i class="fa fa-youtube"></i>Youtube</a></figure>
-                                <figure><a href="" class="icon"><i class="fa fa-pinterest"></i>Pinterest</a></figure>
+                                <figure>
+                                    <a href="https://www.instagram.com/yenitestudio" target="_blank" class="icon">
+                                        <i class="fa fa-instagram"></i>
+                                        Instagram
+                                    </a>
+                                </figure>
+                                <figure>
+                                    <a href="" target="_blank" class="icon">
+                                        <i class="fa fa-behance"></i>
+                                        Behance
+                                    </a>
+                                </figure>
+                                <figure>
+                                    <a href="" target="_blank" class="icon">
+                                        <i class="fa fa-facebook"></i>
+                                        Facebook
+                                    </a>
+                                </figure>
+                                <figure>
+                                    <a href="" target="_blank" class="icon">
+                                        <i class="fa fa-linkedin"></i>
+                                        LinkedIn
+                                    </a>
+                                </figure>
+                                <figure>
+                                    <a href="" target="_blank" class="icon">
+                                        <i class="fa fa-youtube"></i>
+                                        Youtube
+                                    </a>
+                                </figure>
+                                <figure>
+                                    <a href="" target="_blank" class="icon">
+                                        <i class="fa fa-pinterest"></i>
+                                        Pinterest
+                                    </a>
+                                </figure>
+                                <figure>
+                                    <a href="https://wa.me/+923305959991" target="_blank" class="icon">
+                                        <i class="fa fa-whatsapp"></i>
+                                        Whatsapp
+                                    </a>
+                                </figure>
                             </div>
                         </div>
                         <!--end col-sm-6-->
